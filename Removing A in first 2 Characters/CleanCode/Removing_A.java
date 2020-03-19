@@ -8,7 +8,7 @@ public class Removing_A
     	{
 		return strValue.substring(0, index) + strValue.substring(index + 1);
     	}
-	public static String removing_A(String sb)//function to remove the character A
+	public static String removing_A(String sb)//function to remove the character A in givem STRING
 	{
 		Character rc = 'A';
 		int k = 0;
